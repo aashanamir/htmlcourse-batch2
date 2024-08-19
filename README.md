@@ -34,11 +34,11 @@ Below is the basic skeleton of an HTML document:
 </html>
 ```
 
-- **<!DOCTYPE html>**: This declaration defines the document type and version of HTML (HTML5 in this case).
-- **<html>**: The root element of the HTML document.
-- **<head>**: Contains metadata like title, charset, and linked stylesheets/scripts.
-- **<title>**: Defines the title of the document, visible in the browser tab.
-- **<body>**: Contains the visible content of the webpage.
+- <!DOCTYPE html>: This declaration defines the document type and version of HTML (HTML5 in this case).
+- <html>: The root element of the HTML document.
+- <head>: Contains metadata like title, charset, and linked stylesheets/scripts.
+- <title>: Defines the title of the document, visible in the browser tab.
+- <body>: Contains the visible content of the webpage.
 
 ## Essential HTML Tags
 
@@ -85,7 +85,7 @@ To insert a line break or a horizontal rule:
 
 ## Containers: <div> and <span>
 
-**<div>** : Block-level Container
+<div> : Block-level Container
 
 The <div> element is used to group HTML elements together. It acts as a block-level container that helps in organizing content.
 
@@ -97,7 +97,7 @@ The <div> element is used to group HTML elements together. It acts as a block-le
 ```
 
 
-**<span>** : Inline-level Container
+<span> : Inline-level Container
 
 The <div> element is used to group HTML elements together. It acts as a block-level container that helps in organizing content.
 
